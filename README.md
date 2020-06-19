@@ -1,6 +1,6 @@
 # Coding Quiz
 
-In this project, I built a timed code quiz with multiple-choice questions. The application runs in the browser and features dynamically updated HTML and CSS powered by your JavaScript code. It also features a clean and polished user interface and is responsive, ensuring that it adapts to multiple screen sizes.
+In this project, I built a timed coding quiz with multiple-choice questions. The application runs in the browser and features dynamically updated HTML and CSS powered by your JavaScript code. It also features a clean and polished user interface and is responsive, ensuring that it adapts to multiple screen sizes.
 
 ## User Story
 
