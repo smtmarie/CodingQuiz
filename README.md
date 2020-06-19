@@ -4,6 +4,6 @@ In this project, I built a timed code quiz with multiple-choice questions. The a
 
 ## User Story
 
-AS a coding bootcamp student, I want to take a timed quiz on JavaScript fundamentals that stores high scores sot that I can gauge my progress compared to my peers
+AS a coding bootcamp student, I want to take a timed quiz on JavaScript fundamentals that stores high scores so that I can gauge my progress compared to my peers
 
 
